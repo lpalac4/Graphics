@@ -2,7 +2,8 @@
  * File:   DrawingOpenGL.cpp
  * Author: Luis Palacios
  * Project draws my name, a smiley face using my own line drawing algorithm(linear algebra) 
- * and fills those drawings using the Adjacent Edge Table algorithm.
+ * and fills those drawings using the Adjacent Edge Table algorithm. Use the 'a' and 'd' to 
+ * switch between the name, smiley face and the filled smiley face.
  *
  * Date: Sep 26th, 2012
  *
